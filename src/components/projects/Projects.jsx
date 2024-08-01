@@ -15,7 +15,7 @@ const items=[
         title:"Travel Advisor",
         img:"https://cdn.pixabay.com/photo/2019/01/24/20/07/map-3953229_1280.jpg",
         description:"Crafted a cutting-edge Travel Companion App integrated with Google Maps API and Geolocation services for seamless navigation.Users can easily find nearby attractions, restaurants, and hotels via intuitive searches, bolstered by Rapid APIs.",
-        link:""
+        link:"https://aviralchauhan.github.io/travel_advisior/"
     },
     {
         id:3,
@@ -29,7 +29,7 @@ const items=[
         title:"Video Calling Web Application",
         img:"https://www.mirrorfly.com/blog/wp-content/uploads/2022/06/20-Essential-FAQs-to-Know-Before-you-Build-a-Video-Chat-app-with-WebRTCs.webp",
         description:"Built a video calling application using HTML, CSS, JavaScript, WebRTC, and Agora.",
-        link:""
+        link:"https://aviralchauhan.github.io/peer-chat/"
     },
 ]
 
